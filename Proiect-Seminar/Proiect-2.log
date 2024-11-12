@@ -1,0 +1,21 @@
+Circuit: * D:\1.Facultate\Deea\Proiect-Seminar\Proiect-2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Dec 24 21:13:32 2022
+Total elapsed time: 0.070 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 3107
+traniter = 3104
+tranpoints = 1553
+accept = 1474
+rejected = 79
+matrix size = 22
+fillins = 20
+solver = Normal
+Matrix Compiler1: 2.08 KB object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 2.87 KB object code size  0.2/0.2/[0.1]
+
